@@ -1,0 +1,159 @@
+.flex{
+  display: flex;
+  gap: 632;
+  padding: 0px;
+}
+.flex img{
+  width: 69.78px;
+height: 58.74px;
+}
+.box{
+  display: flex;
+  margin: 0px 300px;
+  
+}
+.home{
+  margin: 6px 10px;
+  font-size: 16px;
+font-weight: 400;
+}
+.pick img{
+  width: 12.83px;
+height: 12.64px;
+}
+.pick{
+  display: flex;
+border: 4px solid rgba(19, 19, 19, 0.1);
+border-radius: 20px;
+
+}
+.bk {
+  background-image: url(assets/bg-shadow.png);
+  width: 1000px;
+height: 500px;
+border: 2px solid rgba(19, 19, 19, 0.1);
+border-radius: 20px;
+ackground: rgb(19, 19, 19);
+}
+.okbk{  
+  text-align: center;
+
+}
+.ok{
+  font-size: 40px;
+font-weight: 700;
+
+}
+.ck{
+  font-size: 24px;
+font-weight: 500;
+}
+.ops{
+  border-radius: 12px;
+box-shadow: inset 4px 4px 20px 0px rgba(19, 19, 19, 0.3);
+background: rgb(231, 254, 41);
+padding: 14px 20px 14px 20px;
+}
+.ben img{
+  width: 248.17px;
+height: 200px;
+margin: 0px 400px;
+border-radius: 2px;
+
+}
+.bog h1{
+  font-size: 20px;
+font-weight: 600;
+margin: 0px 16px;
+}
+.bog img{
+  width: 14.54px;
+height: 14.54px;
+margin: 4px;
+border-radius: 20px;
+
+
+
+}
+.card img{
+  
+}
+.kohli{
+  margin: 0px 0px;
+}
+.moni{
+border: 2px solid rgba(19, 19, 19, 0.1);
+border-radius: 10px;
+display: flex;
+gap: 16;
+
+}
+.bog{
+  
+  display: flex;
+  margin: 6px 0px;
+}
+.cik{
+  width: 141px;
+  height: 48px;
+  
+  border-bottom: 1px solid rgba(19, 19, 19, 0.1);
+  border-right: 1px solid rgba(19, 19, 19, 0.1);
+  border-top: 1px solid rgba(19, 19, 19, 0.1);
+  border-radius: 0px 12px 12px 0px;
+  
+  background: rgb(255, 255, 255);
+
+}
+.fik{
+  width: 138px;
+height: 48px;
+  border: 2px solid rgba(19, 19, 19, 0.1);
+  border-radius: 2px;
+  padding: 14px 30px 14px 30px;
+background-color: #E7FE29;
+}
+.dom{
+  display: flex;
+  margin: 0px 650px;
+}
+.virat img{
+  width: 17.58px;
+height: 20px;
+}
+.bp{
+  margin: 0px 140px;
+  border-radius: 8px;
+  background: rgba(19, 19, 19, 0.05);
+}
+.virat h1{
+  font-size: 10px;
+font-weight: 600;
+}
+.virat{
+  display: flex;
+  
+}
+
+.op{
+  display: flex;
+  margin: 6px 0px;
+}
+.ok{
+  font-size: 40px;
+font-weight: 700;
+
+
+}
+@media (prefers-color-scheme: light) {
+  :flex {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}

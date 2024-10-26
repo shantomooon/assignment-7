@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Tavis head",
+        "rating": 85,
+        "batting_style": "Left-Hand-Bat",
+        "price": 1500000
+    },
+    {
+        "name": "WARNER",
+        "rating": 78,
+        "batting_style": "Left-Hand-Bat",
+        "price": 1500000
+    },
+    {
+        "name": "virat kohli",
+        "rating": 90,
+        "batting_style": "Left-Hand-Bat",
+        "price": 1500000
+    },
+    {
+        "name": "Aksar Patel",
+        "rating": 82,
+        "batting_style": "Left-Hand-Bat",
+        "price": 1500000
+    },
+    {
+        "name": "Shakib All Hasan",
+        "rating": 88,
+        "batting_style": "Left-Hand-Bat",
+        "price": 1500000
+    }
+    {
+        "name": "David Smith",
+        "rating": 88,
+        "batting_style": "Left-Hand-Bat",
+        "price": 1500000
+    }
+]
